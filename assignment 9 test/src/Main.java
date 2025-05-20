@@ -39,7 +39,7 @@ public class Main {
         System.out.println("Slope: " + a.slope(b)); // Expect 1.25
 
         // Test Case 9: yIntercept
-        System.out.println("\nTest 9: Y-Intercept of line a–b");
+        System.out.println("\nTest 9: Y-Intercept of line a – b");
         System.out.println("Y-Intercept: " + a.yIntercept(b)); // Expect 0.0
 
         // Test Case 10: linear equation

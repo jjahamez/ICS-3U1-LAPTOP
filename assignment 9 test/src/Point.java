@@ -10,7 +10,7 @@ public class Point {
     }
 
     public Point() {
-        this(0,0); // constructs a new object instead of x = 0 or y =0 (used Mr. Q's slideshow example)
+        this(0,0); // constructs a new object instead of x = 0 or y = 0 (used Mr. Q's slideshow example)
     }
 
     public double getX() {
